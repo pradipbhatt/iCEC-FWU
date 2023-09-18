@@ -1,16 +1,21 @@
-### Hi there 👋
+![Banner](<https://github.com/iCEC-FWU/iCEC-FWU/blob/main/Blue%20Gradient%20Technology%20Linkedin%20Banner%20(1).png>)
+<h1 align="center">Hi 👋, We're ICEC</h1>
+<h3 align="center">An IT CLUB at Far Western University School Of Engineering managed by Computer Engineering Student</h3>
+<img align="right" alt="data" width= "600" src="https://github.com/iCEC-FWU/iCEC-FWU/blob/main/team.jpg">
+- 🔭 We're currently working on **Learning**
 
-<!--
-**iCEC-FWU/iCEC-FWU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👯 We're looking to collaborate with **Mentors , Learners and Other IT Club**
 
-Here are some ideas to get you started:
+- 💬 Ask us about **IT Programs and Seminars at FWU**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach us **icecfwu@gmail.com**
+
+- ⚡ Fun fact **We Only Welcome You If Your are an Alien ahhahaha just Kidding you are kindly WELCOME^_____^**
+
+<h3 align="left">Connect with Us:</h3>
+<p align="left">
+<a href="https://twitter.com/icecfwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="icecfwu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/icec fwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="icec fwu" height="30" width="40" /></a>
+<a href="https://fb.com/icecfwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="icecfwu" height="30" width="40" /></a>
+<a href="https://instagram.com/icec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="icec" height="30" width="40" /></a>
+</p>
