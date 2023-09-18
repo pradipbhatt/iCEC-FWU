@@ -1,6 +1,6 @@
 ![Banner](<https://github.com/iCEC-FWU/iCEC-FWU/blob/main/Blue%20Gradient%20Technology%20Linkedin%20Banner%20(1).png>)
 <h1 align="center">Hi 👋, We're ICEC</h1>
-<h3 align="center">An IT CLUB at Far Western University School Of Engineering managed by Computer Engineering Student</h3>
+<h3 align="center"> A COMPUTER ENGINEERING CLUB at Far Western University School Of Engineering managed by a Computer Engineering Student</h3>
 <img align="right" alt="data" width= "600" src="https://github.com/iCEC-FWU/iCEC-FWU/blob/main/team.jpg">
 - 🔭 We're currently working on **Learning**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach us **icecfwu@gmail.com**
 
-- ⚡ Fun fact **We Only Welcome You If Your are an Alien ahhahaha just Kidding you are kindly WELCOME^_____^**
+- ⚡ Fun fact **We Only Welcome You If You are an Alien hahaha just Kidding you are kindly WELCOME^_____^**
 
 <h3 align="left">Connect with Us:</h3>
 <p align="left">
